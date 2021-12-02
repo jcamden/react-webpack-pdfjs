@@ -229,14 +229,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/lodash@npm:^4":
+"@types/lodash@npm:^4.14.177":
   version: 4.14.177
   resolution: "@types/lodash@npm:4.14.177"
   checksum: 00f9eb300ed5219cfbabb3448d4a71744895edad60dcfda9f028c0808a50eb6ad1ca9f673b56a85f85668a4ea54b9870643625468a747039c435643e52253a75
   languageName: node
   linkType: hard
 
-"@types/mini-css-extract-plugin@npm:^2":
+"@types/mini-css-extract-plugin@npm:^2.4.0":
   version: 2.4.0
   resolution: "@types/mini-css-extract-plugin@npm:2.4.0"
   dependencies:
@@ -268,7 +268,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^17":
+"@types/react-dom@npm:^17.0.11":
   version: 17.0.11
   resolution: "@types/react-dom@npm:17.0.11"
   dependencies:
@@ -792,7 +792,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:latest":
+"autoprefixer@npm:^10.4.0":
   version: 10.4.0
   resolution: "autoprefixer@npm:10.4.0"
   dependencies:
@@ -3797,7 +3797,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pdfjs-dist@npm:^2.10.377":
+"pdfjs-dist@npm:^2.11.338":
   version: 2.11.338
   resolution: "pdfjs-dist@npm:2.11.338"
   peerDependencies:
@@ -3962,7 +3962,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.1.6, postcss@npm:^8.2.15, postcss@npm:^8.3.5, postcss@npm:latest":
+"postcss@npm:^8.1.6, postcss@npm:^8.2.15, postcss@npm:^8.3.5, postcss@npm:^8.4.4":
   version: 8.4.4
   resolution: "postcss@npm:8.4.4"
   dependencies:
@@ -4148,26 +4148,26 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "react-webpack-pdfjs@workspace:."
   dependencies:
-    "@types/lodash": ^4
-    "@types/mini-css-extract-plugin": ^2
+    "@types/lodash": ^4.14.177
+    "@types/mini-css-extract-plugin": ^2.4.0
     "@types/node": ^16.11.11
     "@types/react": ^17.0.37
-    "@types/react-dom": ^17
-    autoprefixer: latest
+    "@types/react-dom": ^17.0.11
+    autoprefixer: ^10.4.0
     css-loader: ^6.5.1
     eslint: ^8.3.0
     file-loader: ^6.2.0
     html-webpack-plugin: ^5.5.0
     lodash: ^4.17.21
     mini-css-extract-plugin: ^2.4.5
-    pdfjs-dist: ^2.10.377
-    postcss: latest
+    pdfjs-dist: ^2.11.338
+    postcss: ^8.4.4
     postcss-loader: ^6.2.1
     prettier: ^2.5.0
     react: ^17.0.2
     react-dom: ^17.0.2
     style-loader: ^3.3.1
-    tailwindcss: latest
+    tailwindcss: ^2.2.19
     ts-loader: ^9.2.6
     ts-node: ^10.4.0
     typescript: ^4.5.2
@@ -4808,7 +4808,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tailwindcss@npm:latest":
+"tailwindcss@npm:^2.2.19":
   version: 2.2.19
   resolution: "tailwindcss@npm:2.2.19"
   dependencies:

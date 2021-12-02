@@ -5,22 +5,22 @@
     "dev": "webpack serve --config ./webpack.config.js"
   },
   "devDependencies": {
-    "@types/lodash": "^4",
-    "@types/mini-css-extract-plugin": "^2",
+    "@types/lodash": "^4.14.177",
+    "@types/mini-css-extract-plugin": "^2.4.0",
     "@types/node": "^16.11.11",
     "@types/react": "^17.0.37",
-    "@types/react-dom": "^17",
-    "autoprefixer": "latest",
+    "@types/react-dom": "^17.0.11",
+    "autoprefixer": "^10.4.0",
     "css-loader": "^6.5.1",
     "eslint": "^8.3.0",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^2.4.5",
-    "postcss": "latest",
+    "postcss": "^8.4.4",
     "postcss-loader": "^6.2.1",
     "prettier": "^2.5.0",
     "style-loader": "^3.3.1",
-    "tailwindcss": "latest",
+    "tailwindcss": "^2.2.19",
     "ts-loader": "^9.2.6",
     "ts-node": "^10.4.0",
     "typescript": "^4.5.2",
@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "pdfjs-dist": "^2.10.377",
+    "pdfjs-dist": "^2.11.338",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
